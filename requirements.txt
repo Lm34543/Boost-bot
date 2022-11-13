@@ -1,0 +1,4 @@
+pycord
+discord.py
+py-cord
+requests

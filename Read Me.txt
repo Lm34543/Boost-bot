@@ -1,0 +1,5 @@
+capmonster= https://capmonster.cloud/
+token = discord developer discord bot token
+admin id = your id or admins id
+guild id = your server id
+whitelist id = anyone that can use /boost, /stock, /restock ect ect
